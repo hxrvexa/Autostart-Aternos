@@ -13,9 +13,9 @@ class Account:
         username and password that was passed in
 
         :param username: The username of the account you want to log in with
-        :type username: str
+        :type username: hxrlalluvah
         :param password: The password for the user
-        :type password: str
+        :type password: hxrlalluvah
         """
         self.username = username
         self.password = password
